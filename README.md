@@ -1,4 +1,4 @@
-# ADHD Smart Assistant - Kawkaby
+# ADHD Smart Assistant 
 
 An AI-powered voice assistant designed to support children with ADHD through emotion detection, personalized exercises, and a reward system.
 
